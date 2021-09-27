@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MaciejNET
-- 👀 I’m interested in programming and databases
-- 🌱 I’m currently learning asp.net and sql
-- 📫 How to reach me mderon07@gmail.com
+
