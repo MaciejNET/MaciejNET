@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning ASP.NET, Architecture Design, C++, Go<br>📫 How to reach me maciejderon@icloud.com</p>
+<p align="left">📚 I'm currently learning ASP.NET, Software Architecture Design, C++, Go<br>📫 How to reach me maciejderon@icloud.com</p>
 
 ###
 
